@@ -4,7 +4,7 @@ Hi, I’m Benjamin Diethelm-Varela. I'm from Chile. I am a pharmacist
 I was trained as a pharmacist, and did graduate research in medicinal chemistry, so I have a reasonable grasp of pharmacology, chemistry, and biology.
 My favorite operating system is Linux (fine; GNU/Linux). My favorite Linux distro is Debian. My favorite programming language is Python. 
 I also know a bit of R and SQL.
-I am an advocate of open-source software and open data projects!
+I am interested in open-source software and open data projects!
 
 - I’m currently learning programming languages (emphasis on Python) and statistics.
 
