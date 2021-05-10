@@ -16,7 +16,7 @@ with others so feel free to reach out if you think I can be of help in your proj
 
 Check out my blog: (currently under construction; check back soon!)
 
-Did you know that if you fold a sheet of paper 100 times its length will be 13 billion light years (n*2^100)? Exponential growth gets out of control quickly.
+Did you know that if you fold a sheet of paper 100 times its length will be 13 billion light years (length*2^100)? Exponential growth gets out of control quickly.
 Don't try at home; within a few foldings you will pierce through your roof.
 
 <!---
