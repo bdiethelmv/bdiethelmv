@@ -1,4 +1,5 @@
-Hi, I’m Benjamin Diethelm-Varela. I'm a pharmacist and pharmaceutical scientist from Chile.
+Hi, I’m Benjamin Diethelm-Varela. I'm a pharmacist and pharmaceutical scientist from Chile. Welcome to my GitHub page! This is only a few days old, so it is very
+much a work in progress. Content and quality will grow over time.
 
 - I’m interested in science! Especially health sciences, but I also love astronomy, computer science, data science and statistics.
 I was trained as a pharmacist, and did graduate research in medicinal chemistry, so I have a reasonable grasp of pharmacology, chemistry, and biology.
