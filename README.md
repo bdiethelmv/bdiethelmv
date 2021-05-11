@@ -14,7 +14,7 @@ with others so feel free to reach out if you think I can be of help in your proj
 - How to reach me: try either bmdiethelm@gmail.com or bmdiethelm@uc.cl. I check those regularly. Also, feel free to contact me through GitHub, Reddit
 (bdiethelmv), or LinkedIn.
 
-Check out my blog: (currently under construction; check back soon!)
+Check out my blog: bmdiethelmv.wordpress.com (still under construction)
 
 Did you know that if you fold a sheet of paper 100 times its length will be 13 billion light years (length*2^100)? Exponential growth gets out of control quickly.
 Don't try at home; within a few foldings you will pierce through your roof.
