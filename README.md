@@ -14,7 +14,7 @@ with others so feel free to reach out if you think I can be of help in your proj
 - How to reach me: try either bmdiethelm@gmail.com or bmdiethelm@uc.cl. I check those regularly. Also, feel free to contact me through GitHub, Reddit
 (bdiethelmv), or LinkedIn.
 
-Check out my blog: bmdiethelmv.wordpress.com (still under construction)
+Check out my blog: bmdiethelmv.wordpress.com (very rough draft version. Still under construction!)
 
 Check out my LikedIn profile: https://www.linkedin.com/in/benjam%C3%ADn-diethelm-varela-55b84972/
 
