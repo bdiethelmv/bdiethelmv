@@ -6,7 +6,7 @@ My favorite operating system is Linux (GNU/Linux. Sorry Mr. Stallman). My favori
 I also know a bit of R and SQL.
 I am interested in open-source software and open data projects!
 
-- I’m currently learning programming languages (emphasis on Python) and statistics.
+- I’m currently pursuing deeper learning on programming languages (emphasis on Python) and statistics.
 
 - I’m looking to collaborate on education projects, data analysis tasks, and any open-source endeavor where my skills might be useful. I work well
 with others so feel free to reach out if you think I can be of help in your project!
