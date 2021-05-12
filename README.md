@@ -17,7 +17,7 @@ with others so feel free to reach out if you think I can be of help in your proj
 
 Check out my blog: bmdiethelmv.wordpress.com (very rough draft version. Still under construction!)
 
-Check out my LikedIn profile: https://www.linkedin.com/in/benjam%C3%ADn-diethelm-varela-55b84972/
+Check out my LinkedIn profile: https://www.linkedin.com/in/benjam%C3%ADn-diethelm-varela-55b84972/
 
 Did you know that if you fold a sheet of paper 100 times its length will be 13 billion light years (length*2^100)? Exponential growth gets out of control quickly.
 Don't try at home; within a few foldings you will pierce through your roof.
