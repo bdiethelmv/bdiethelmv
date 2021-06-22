@@ -19,9 +19,6 @@ Check out my blog: bmdiethelmv.wordpress.com
 
 Check out my LinkedIn profile: https://www.linkedin.com/in/benjam%C3%ADn-diethelm-varela-55b84972/
 
-Did you know that if you fold a sheet of paper 100 times its length will be 13 billion light years (length*2^100)? Exponential growth gets out of control quickly.
-Don't try at home; after a few foldings you will pierce through your roof.
-
 <!---
 bdiethelmv/bdiethelmv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
