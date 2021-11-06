@@ -5,7 +5,7 @@ About me:
 - My areas of interest are health sciences, microbiology, and immunology, but I also love astronomy, computer science, data science and statistics.
 I was trained as a pharmacist, and did graduate research in medicinal chemistry, so I have a reasonable grasp of pharmacology, chemistry, and biology.
 My favorite operating system is Linux. My favorite Linux distro is Debian. My favorite programming language is Python. 
-I also know a bit of R and SQL.
+I also know R and a bit of SQL.
 
 - I’m currently pursuing deeper learning in immunology, clinical research, and statistics. I was recently admitted to a PhD program in Molecular Genetics and Microbiology, so that training will continue for a while.
 
