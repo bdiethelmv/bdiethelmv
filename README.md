@@ -1,13 +1,13 @@
-Hi, I’m Benjamin Diethelm-Varela. I'm a pharmacist and pharmaceutical scientist from Chile. Welcome to my GitHub page! This is only a few days old, so it is very
-much a work in progress. Content and quality will grow over time.
+Hi, I’m Benjamin Diethelm-Varela. I'm a pharmacist and scientist from Chile. Welcome to my GitHub page!
 
-- I’m interested in science! Especially health sciences, but I also love astronomy, computer science, data science and statistics.
+About me: 
+
+- My areas of interest are health sciences, microbiology, and immunology, but I also love astronomy, computer science, data science and statistics.
 I was trained as a pharmacist, and did graduate research in medicinal chemistry, so I have a reasonable grasp of pharmacology, chemistry, and biology.
 My favorite operating system is Linux. My favorite Linux distro is Debian. My favorite programming language is Python. 
 I also know a bit of R and SQL.
-I am interested in open-source software and open data projects!
 
-- I’m currently pursuing deeper learning on programming languages (emphasis on Python) and statistics.
+- I’m currently pursuing deeper learning in immunology, clinical research, and statistics. I was recently admitted to a PhD program in Molecular Genetics and Microbiology, so that training will continue for a while.
 
 - I’m looking to collaborate on education projects, data analysis tasks, and any open-source endeavor where my skills might be useful. I work well
 with others so feel free to reach out if you think I can be of help in your project!
