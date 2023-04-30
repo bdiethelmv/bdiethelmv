@@ -12,12 +12,7 @@ I also know R and a bit of SQL.
 - I’m looking to collaborate on education projects, data analysis tasks, and any open-source endeavor where my skills might be useful. I work well
 with others so feel free to reach out if you think I can be of help in your project!
 
-- How to reach me: try either bmdiethelm@gmail.com or bmdiethelm@uc.cl. I check those regularly. Also, feel free to contact me through GitHub, Reddit
-(bdiethelmv), or LinkedIn.
-
-Check out my blog: bmdiethelmv.wordpress.com
-
-Check out my LinkedIn profile: https://www.linkedin.com/in/benjam%C3%ADn-diethelm-varela-55b84972/
+You can write me at gnuemacs@tuta.io
 
 <!---
 bdiethelmv/bdiethelmv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
